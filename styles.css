@@ -10,7 +10,7 @@ body {
   margin: 0;
 }
 
-h {font-size:36px;}
+.headline {font-size:36px; color:#4c8bf5;}
 
 /* Center content in a container */
 .container {
