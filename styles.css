@@ -11,7 +11,6 @@ body {
 }
 
 
-
 /* Center content in a container */
 .container {
   text-align: center;
@@ -21,7 +20,6 @@ body {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-.headline {font-size:36px; color:#4c8bf5;}
 
 /* Style the image */
 img {
