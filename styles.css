@@ -10,6 +10,8 @@ body {
   margin: 0;
 }
 
+h {font-size:36px;}
+
 /* Center content in a container */
 .container {
   text-align: center;
